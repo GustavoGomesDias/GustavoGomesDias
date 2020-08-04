@@ -5,10 +5,11 @@ Pretendo ser um desenvolvedor Full Stack.
 
   😭 &nbsp; No momento estou desempregado, mas a procura de trabalho. 🙂
   
-  <br/> 💻 &nbsp; Tenho conhecimento em **Python** **C**, **JavaScript** e estou aprendendo **React**
+  <br/> 💻 &nbsp; Tenho conhecimento em **Python**, **C**, **JavaScript** e estou aprendendo **React**
   <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás
   
 
 [Gmail](mailto:01gustavodias@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/gustavo-gomes-dias-4b410b1b3/)
   
 
