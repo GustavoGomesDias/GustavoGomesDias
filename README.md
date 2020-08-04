@@ -9,6 +9,6 @@ Pretendo ser um desenvolvedor Full Stack.
   <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás
   
 
-[!Gmail](mailto:01gustavodias@gmail.com)
+[Gmail](mailto:01gustavodias@gmail.com)
   
 
