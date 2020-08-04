@@ -8,6 +8,6 @@ Pretendo ser um desenvolvedor Full Stack.
   <br/> 💻 &nbsp; Tenho conhecimento em **Python** **C**, **JavaScript** e estou aprendendo **React**
   <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás
   
-(!Gmial)[https://simpleicons.org/icons/gmail.svg]
+(! Gmial)[https://simpleicons.org/icons/gmail.svg]
   
 
