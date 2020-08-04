@@ -5,7 +5,7 @@ Pretendo ser um desenvolvedor Full Stack.
 
   😭 &nbsp; No momento estou desempregado, mas a procura de trabalho. 🙂
   
-  <br/> 💻 &nbsp; Tenho conhecimento em **Python**, **C**, **JavaScript** e estou aprendendo **React**.
+  <br/> 💻 &nbsp; Tenho conhecimento em **Python**, **C**, **JavaScript** (além de **HTML e CSS**) e estou aprendendo **React**.
   <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás.
   
   <br/> Thanks for visiting...
