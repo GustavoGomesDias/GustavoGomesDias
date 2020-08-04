@@ -1,16 +1,13 @@
-### Hi there 👋
+# Gustavo Gomes Dias
+## Olá pessoas
+Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação.
+Pretendo ser um desenvolvedor Full Stack.
 
-<!--
-**GustavoGomesDias/GustavoGomesDias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  😭 &nbsp; No momento estou desempregado, mas a procura de trabalho. 🙂
+  
+  <br/> 💻 &nbsp; Tenho conhecimento em **Python** **C**, **JavaScript** e estou aprendendo **React**
+  <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás
+  
+  (!((Gmial)[https://img.shields.io/badge/Gmal-Gmail-brightgreen][https://simpleicons.org/icons/gmail.svg])
+  
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
