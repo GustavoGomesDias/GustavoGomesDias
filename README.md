@@ -13,5 +13,5 @@ Pretendo ser um desenvolvedor Full Stack.
 
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=01gustavodias@gmail.com)](01gustavodias@gmail.com)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gustavo-gomes-dias-4b410b1b3/)](https://www.linkedin.com/in/gustavo-gomes-dias-4b410b1b3/)
+[![Twitter Badge](https://img.shields.io/badge/https://twitter.com/Di3Gustavo%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Di3Gustavo)
   
-
