@@ -10,7 +10,7 @@ Pretendo ser um desenvolvedor Full Stack.
   
   <br/> Thanks for visiting...
   
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Twitter Badge](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Di3Gustavo)
 
