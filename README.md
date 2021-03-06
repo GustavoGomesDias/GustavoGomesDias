@@ -1,18 +1,20 @@
-# Gustavo Gomes Dias
-## Olá pessoas
-Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação.
-Pretendo ser um desenvolvedor Full Stack.
+# Olá... 🖐
+## 😁Um pouco sobre mim
+Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
 
-  😭 &nbsp; No momento estou desempregado, mas a procura de trabalho. 🙂
-  
-  <br/> 💻 &nbsp; Tenho conhecimento em **Python**, **C**, **JavaScript** (além de **HTML e CSS**) e estou aprendendo **React**.
-  <br/> 💬 &nbsp; Sobre mim: Curso tecnologias e estou sempre em busca de aprender, jogo LoL e gosto de Animes e Mangás.
-  
-  <br/> Thanks for visiting...
+Eu também sou alguém que curte muito mangás e animes, mas não sou muito ligado na cultura japonesa (talvez eu seja um otaku poser?).
+
+## 💻 Stacks
+Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScript, mas tenho conhecimento em Python e C (apesar disso, meu repositórios de C tão tudo privado 😭).
+
+* NodeJS;
+* Bootstrap;
+* HTML e CSS.
+
+## Informações detalhadas
+* Nome: Gustavo Gomes Dias;
+* Idade: 21 anos;
+* Moradia: Serra/ES;
+* Universidade: Instituto Federal do Espírito Santo (cursando - 3º peíodo);
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Twitter Badge](https://img.shields.io/badge/Twitter%20-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/Di3Gustavo)
-
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=01gustavodias@gmail.com)](01gustavodias@gmail.com)
-
