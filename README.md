@@ -15,6 +15,6 @@ Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScr
 * Nome: Gustavo Gomes Dias;
 * Idade: 21 anos;
 * Moradia: Serra/ES;
-* Universidade: Instituto Federal do Espírito Santo (cursando - 3º peíodo);
+* Escolaridade: Faço Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo(cursando - 3º peíodo);
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
