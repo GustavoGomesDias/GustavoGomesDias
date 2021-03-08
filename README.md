@@ -2,8 +2,6 @@
 ## 😁Um pouco sobre mim
 Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
 
-Eu também sou alguém que curte muito mangás e animes, mas não sou muito ligado na cultura japonesa (talvez eu seja um otaku poser?).
-
 ## 💻 Stacks
 Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScript, mas tenho conhecimento em Python e C (apesar disso, meu repositórios de C tão tudo privado 😭).
 
