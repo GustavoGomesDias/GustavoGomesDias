@@ -3,7 +3,7 @@
 Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
 
 ## 💻 Stacks
-Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScript, mas tenho conhecimento em Python e C (apesar disso, meu repositórios de C tão tudo privado 😭).
+Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScript, mas tenho conhecimento em Python e C (apesar disso, meus repositórios de C estão tudo privado 😭).
 
 * NodeJS;
 * Bootstrap;
