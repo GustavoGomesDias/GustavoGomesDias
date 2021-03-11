@@ -6,8 +6,9 @@ Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em 
 Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScript, mas tenho conhecimento em Python e C (apesar disso, meus repositórios de C estão tudo privado 😭).
 
 * NodeJS;
+* MySQL e MongoDB;
 * Bootstrap;
-* HTML e CSS.
+* HTML e CSS;
 
 ## Informações detalhadas
 * Nome: Gustavo Gomes Dias;
