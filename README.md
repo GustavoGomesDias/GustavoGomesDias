@@ -25,3 +25,9 @@ Atualmente eu tento trabalhar com NodeJS e uma stack mais voltada para o JavaScr
 * Escolaridade: Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo (3º peíodo);
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+## Números de pessoas que me visitaram
+<p align="center"> 
+   <img alingn="center" src="https://profile-counter.glitch.me/GustavoGomesDias/count.svg" />
+ </p>
