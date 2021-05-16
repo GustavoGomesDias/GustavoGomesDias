@@ -21,9 +21,7 @@ Aqui eu coloco tecnologias que eu já tenha produzidos projetos antes e que eu t
 #### 📚 Comecei a estudar/Pretendo estudar...
 Nessa parte entram tecnologias que eu esteja focando meus estudos ou que eu pretendo estudar. A primeira tecnologia é a que eu estou estudando agora, sendo que a seguinte é que estudarei a seguir e assim por diante... #PaiVaiFicarBom 😎
 
-<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> => Foco atual
-
-<img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
 
 ## Informações detalhadas
 * Nome: Gustavo Gomes Dias;
