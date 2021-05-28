@@ -1,6 +1,6 @@
 # Olá... 🖐
 ## 😁Um pouco sobre mim
-Sou estudante de Sistemas de Informação (terceiro período) e sou inciante em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
+Sou estudante de Sistemas de Informação (quarto período) e sou juninho em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
 
 <a target="_blank" href="https://www.linkedin.com/in/gustavogd/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
