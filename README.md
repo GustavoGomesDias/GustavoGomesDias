@@ -27,6 +27,7 @@ Nessa parte entram tecnologias que eu esteja focando meus estudos ou que eu pret
 * Nome: Gustavo Gomes Dias;
 * Idade: 21 anos;
 * Moradia: Serra/ES;
+* [Currículo Online](https://gustavogomesdias.github.io/curriculo/)
 * Escolaridade: Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo (4º peíodo);
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
