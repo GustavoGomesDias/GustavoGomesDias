@@ -1,6 +1,7 @@
 # Olá... 🖐
 ## 😁Um pouco sobre mim
 Sou estudante de Sistemas de Informação (quarto período) e sou juninho em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
+* Para ver minhas informações de uma forma diferente, acesse meu [Currículo Online](https://gustavogomesdias.github.io/curriculo/).
 
 <a target="_blank" href="https://www.linkedin.com/in/gusgd/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
@@ -27,7 +28,6 @@ Nessa parte entram tecnologias que eu esteja focando meus estudos ou que eu pret
 * Nome: Gustavo Gomes Dias;
 * Idade: 21 anos;
 * Moradia: Serra/ES;
-* [Currículo Online](https://gustavogomesdias.github.io/curriculo/)
 * Escolaridade: Bacharelado em Sistemas de Informação no Instituto Federal do Espírito Santo (4º peíodo);
   
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
