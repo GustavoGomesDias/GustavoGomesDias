@@ -2,7 +2,7 @@
 ## 😁Um pouco sobre mim
 Sou estudante de Sistemas de Informação (quarto período) e sou juninho em programação, almejo ser um programador back-end e que consiga fazer tudo que eu me predisponha a fazer.
 
-<a target="_blank" href="https://www.linkedin.com/in/gustavogd/">
+<a target="_blank" href="https://www.linkedin.com/in/gusgd/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 <a target="_blank" href="https://twitter.com/Di3Gustavo">
