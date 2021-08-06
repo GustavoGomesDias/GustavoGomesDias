@@ -25,4 +25,11 @@ Stst   | Top Langs
 
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   4 hrs 13 mins   █████████░░░░░░░░░░░░░░░░   36.17 % 
+Java         3 hrs 36 mins   ███████▓░░░░░░░░░░░░░░░░░   30.91 % 
+TypeScript   2 hrs 24 mins   █████░░░░░░░░░░░░░░░░░░░░   20.62 % 
+JSON         28 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.12 % 
+Markdown     22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.23 % 
+```
 <!--END_SECTION:waka-->
