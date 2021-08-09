@@ -19,7 +19,7 @@ Student of Information Systems and a little junior. I aspire to be a backend pro
 <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white"/> <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB"/> <img alt="Jest" src="https://img.shields.io/badge/-jest-%23C21325?&style=for-the-badge&logo=jest&logoColor=white"/> <img alt="Postgres" src ="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"/>
   
 ## 😎 Stats
-Stast   | Top Langs
+Stats   | Top Langs
 --------- | ------
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
