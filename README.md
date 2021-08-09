@@ -26,12 +26,12 @@ Stast   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 01 August, 2021 - 07 August, 2021
+Week: 02 August, 2021 - 08 August, 2021
 
-Java         5 hrs 32 mins   █████████▒░░░░░░░░░░░░░░░   37.96 % 
-JavaScript   4 hrs 58 mins   ████████▓░░░░░░░░░░░░░░░░   34.12 % 
-TypeScript   2 hrs 28 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.00 % 
-JSON         31 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-Markdown     26 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.03 % 
+Java         9 hrs 48 mins   █████████████░░░░░░░░░░░░   51.59 % 
+JavaScript   4 hrs 58 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.21 % 
+TypeScript   2 hrs 28 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.06 % 
+JSON         31 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.75 % 
+Text         27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 % 
 ```
 <!--END_SECTION:waka-->
