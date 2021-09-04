@@ -26,12 +26,12 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 27 August, 2021 - 02 September, 2021
+Week: 28 August, 2021 - 03 September, 2021
 
-JavaScript   10 hrs 2 mins   ████████████████▓░░░░░░░░   66.27 % 
-JSON         3 hrs 3 mins    █████░░░░░░░░░░░░░░░░░░░░   20.14 % 
-TypeScript   58 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.48 % 
-Other        34 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.77 % 
-Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 % 
+JavaScript   9 hrs 58 mins   ███████████████▒░░░░░░░░░   61.72 % 
+JSON         3 hrs 53 mins   ██████░░░░░░░░░░░░░░░░░░░   24.10 % 
+TypeScript   1 hr 12 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.44 % 
+Other        37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.89 % 
+Bash         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
 ```
 <!--END_SECTION:waka-->
