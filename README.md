@@ -1,7 +1,7 @@
 # Hi... 🖐
 ## 😁 About me
 Student of Information Systems and a little junior. I aspire to be a backend programmer, who can fulfill all the proposed challenges
-* [Remuse Onliners](https://gustavogomesdias.github.io/curriculo/).
+* [Remuse Onliners](https://resumers.vercel.app/).
 
 <a target="_blank" href="https://www.linkedin.com/in/gusgd/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
