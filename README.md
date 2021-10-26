@@ -26,10 +26,11 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 18 October, 2021 - 24 October, 2021
+Week: 19 October, 2021 - 25 October, 2021
 
-TypeScript   1 hr 45 mins    █████████████████████▓░░░   86.55 % 
-Java         8 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 % 
-Git Config   6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.36 % 
+TypeScript   2 hrs 55 mins   ███████████████████▓░░░░░   78.40 % 
+Java         33 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Git Config   6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 % 
+C++          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 % 
 ```
 <!--END_SECTION:waka-->
