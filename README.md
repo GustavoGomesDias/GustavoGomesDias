@@ -26,12 +26,12 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 October, 2021 - 30 October, 2021
+Week: 25 October, 2021 - 31 October, 2021
 
-C++          5 hrs 3 mins    ██████████████░░░░░░░░░░░   56.34 % 
-TypeScript   2 hrs 22 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.52 % 
-Java         33 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 % 
-Markdown     14 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 % 
+C++          5 hrs 22 mins   █████████████▓░░░░░░░░░░░   55.29 % 
+TypeScript   2 hrs 22 mins   ██████░░░░░░░░░░░░░░░░░░░   24.46 % 
+Bash         41 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.14 % 
+Java         24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.23 % 
+JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.64 % 
 ```
 <!--END_SECTION:waka-->
