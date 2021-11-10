@@ -26,11 +26,9 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 02 November, 2021 - 08 November, 2021
+Week: 03 November, 2021 - 09 November, 2021
 
-Java         9 hrs 21 mins   ██████████████████████▓░░   90.82 % 
-C++          45 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.43 % 
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.35 % 
-Git Config   2 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.34 % 
+Java             9 hrs 21 mins   ████████████████████████▓   98.51 % 
+Text             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
 ```
 <!--END_SECTION:waka-->
