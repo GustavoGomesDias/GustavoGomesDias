@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 03 November, 2021 - 09 November, 2021
+Week: 04 November, 2021 - 10 November, 2021
 
 Java             9 hrs 21 mins   ████████████████████████▓   98.51 % 
 Text             8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.46 % 
