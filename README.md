@@ -26,11 +26,11 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 06 November, 2021 - 12 November, 2021
+Week: 07 November, 2021 - 13 November, 2021
 
-Java         9 hrs 21 mins   ████████████████████░░░░░   79.42 % 
-TypeScript   2 hrs 11 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.56 % 
-Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.18 % 
-Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.79 % 
+Java         9 hrs 21 mins   ██████████████████▒░░░░░░   73.89 % 
+TypeScript   3 hrs 4 mins    ██████░░░░░░░░░░░░░░░░░░░   24.23 % 
+Text         8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
+Other        5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
 ```
 <!--END_SECTION:waka-->
