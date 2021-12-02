@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 24 November, 2021 - 30 November, 2021
+Week: 25 November, 2021 - 01 December, 2021
 
 Java   15 mins         █████████████████████████   100.00 % 
 ```
