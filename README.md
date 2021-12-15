@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 December, 2021 - 13 December, 2021
+Week: 08 December, 2021 - 14 December, 2021
 
 Java             1 hr 33 mins    █████████████████████▒░░░   84.97 % 
 Markdown         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
