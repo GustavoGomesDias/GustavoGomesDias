@@ -26,11 +26,6 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 13 December, 2021 - 19 December, 2021
-
-Java             1 hr 33 mins    █████████████████████▒░░░   84.97 % 
-Markdown         6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.78 % 
-XML              5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.92 % 
-GitIgnore file   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.33 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
