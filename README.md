@@ -26,6 +26,8 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Week: 17 December, 2021 - 23 December, 2021
+
+Java             20 mins         ████████████████████████░   96.54 % 
 ```
 <!--END_SECTION:waka-->
