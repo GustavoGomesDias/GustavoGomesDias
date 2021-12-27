@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 19 December, 2021 - 25 December, 2021
+Week: 20 December, 2021 - 26 December, 2021
 
 TypeScript       2 hrs 34 mins   █████████████████████▓░░░   86.26 % 
 Java             20 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.45 % 
