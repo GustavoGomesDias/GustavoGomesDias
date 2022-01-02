@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 25 December, 2021 - 31 December, 2021
+Week: 26 December, 2021 - 01 January, 2022
 
 TypeScript   17 hrs 34 mins  ███████████████████████▓░   94.87 % 
 Markdown     27 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 % 
