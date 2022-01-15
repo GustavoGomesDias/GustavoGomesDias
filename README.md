@@ -26,12 +26,12 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 07 January, 2022 - 13 January, 2022
+Week: 08 January, 2022 - 14 January, 2022
 
-TypeScript   15 hrs 21 mins  █████████████████░░░░░░░░   67.86 % 
-Java         3 hrs 52 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.09 % 
-CSS          1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 % 
-JavaScript   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 % 
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
+TypeScript   18 hrs 30 mins  █████████████████▓░░░░░░░   71.28 % 
+Java         3 hrs 33 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+CSS          2 hrs 4 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+JavaScript   1 hr 1 min      █░░░░░░░░░░░░░░░░░░░░░░░░   03.96 % 
+JSON         13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.88 % 
 ```
 <!--END_SECTION:waka-->
