@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 21 January, 2022 - 27 January, 2022
+Week: 22 January, 2022 - 28 January, 2022
 
 Java             23 hrs 22 mins  ████████████████████▓░░░░   82.43 % 
 TypeScript       4 hrs 18 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   15.20 % 
