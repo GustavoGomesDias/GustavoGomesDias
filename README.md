@@ -26,7 +26,7 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-Week: 28 January, 2022 - 03 February, 2022
+Week: 29 January, 2022 - 04 February, 2022
 
 TypeScript   15 hrs 37 mins  █████████████████████▒░░░   85.73 % 
 CSS          1 hr 8 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 % 
