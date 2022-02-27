@@ -26,6 +26,11 @@ Stats   | Top Langs
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+From: 19 February, 2022 - To: 26 February, 2022
+
+TypeScript   5 hrs 47 mins   ███████████████████▒░░░░░   76.84 % 
+CSS          1 hr 28 mins    █████░░░░░░░░░░░░░░░░░░░░   19.59 % 
+JavaScript   9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
+JSON         6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 <!--END_SECTION:waka-->
