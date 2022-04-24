@@ -26,14 +26,14 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 15 April 2022 - To: 22 April 2022
+From: 16 April 2022 - To: 23 April 2022
 
-Go           3 hrs 42 mins   █████████░░░░░░░░░░░░░░░░   36.17 %
-Markdown     3 hrs 6 mins    ███████▓░░░░░░░░░░░░░░░░░   30.39 %
-TypeScript   2 hrs 38 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.81 %
-JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.92 %
-JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
-Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
+Go           4 hrs 53 mins   ██████████▓░░░░░░░░░░░░░░   42.05 %
+Markdown     3 hrs 18 mins   ███████░░░░░░░░░░░░░░░░░░   28.42 %
+TypeScript   2 hrs 38 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.79 %
+JavaScript   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+JSON         16 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
+Git Config   5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.77 %
 ```
 
 <!--END_SECTION:waka-->
