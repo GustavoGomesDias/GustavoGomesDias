@@ -26,7 +26,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 June 2022 - To: 17 June 2022
+From: 11 June 2022 - To: 18 June 2022
 
 PHP          15 mins         ████████████████░░░░░░░░░   64.34 %
 CSS          4 mins          ████▓░░░░░░░░░░░░░░░░░░░░   19.11 %
