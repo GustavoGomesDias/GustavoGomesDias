@@ -26,14 +26,12 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 July 2022 - To: 18 July 2022
+From: 12 July 2022 - To: 19 July 2022
 
-TypeScript   11 hrs 33 mins  █████████████████████░░░░   84.30 %
-Go           1 hr 7 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   08.20 %
-SCSS         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.08 %
-Bash         17 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
-Markdown     15 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
-Other        3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+TypeScript   8 hrs 19 mins   ██████████████████████░░░   87.96 %
+Go           1 hr 7 mins     ███░░░░░░░░░░░░░░░░░░░░░░   11.88 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 %
 ```
 
 <!--END_SECTION:waka-->
