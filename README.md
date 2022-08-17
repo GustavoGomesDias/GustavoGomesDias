@@ -26,10 +26,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 August 2022 - To: 15 August 2022
-
-Go           17 mins         ██████████████████▒░░░░░░   73.11 %
-TypeScript   6 mins          ██████▓░░░░░░░░░░░░░░░░░░   26.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
