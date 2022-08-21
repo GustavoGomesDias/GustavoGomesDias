@@ -26,7 +26,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 13 August 2022 - To: 20 August 2022
+
+CSS          2 hrs 48 mins   ████████████▒░░░░░░░░░░░░   49.76 %
+HTML         1 hr 58 mins    ████████▓░░░░░░░░░░░░░░░░   34.85 %
+JavaScript   50 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.93 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
 ```
 
 <!--END_SECTION:waka-->
