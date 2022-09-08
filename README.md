@@ -25,12 +25,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 August 2022 - To: 06 September 2022
+From: 31 August 2022 - To: 07 September 2022
 
-TypeScript   3 hrs 21 mins   █████████████████████▓░░░   86.87 %
-JSON         23 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.94 %
-YAML         5 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Other        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.69 %
+TypeScript   2 hrs 46 mins   ███████████████▒░░░░░░░░░   60.70 %
+Python       1 hr 27 mins    ████████░░░░░░░░░░░░░░░░░   31.78 %
+JSON         12 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+YAML         5 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.95 %
+Other        2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
