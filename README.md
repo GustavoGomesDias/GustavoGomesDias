@@ -27,14 +27,14 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 22 September 2022 - To: 29 September 2022
+From: 23 September 2022 - To: 30 September 2022
 
-Python       9 hrs 9 mins    █████████████▓░░░░░░░░░░░   54.38 %
-C            7 hrs 18 mins   ███████████░░░░░░░░░░░░░░   43.41 %
-INI          9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-CSV          5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
-Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
+Python       8 hrs 58 mins   ██████████████░░░░░░░░░░░   55.43 %
+C            6 hrs 58 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
+INI          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+Git Config   4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.43 %
+Bash         1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.18 %
+Other        0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
