@@ -27,11 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 September 2022 - To: 03 October 2022
+From: 27 September 2022 - To: 04 October 2022
 
-Python       4 hrs 16 mins   █████████████████▓░░░░░░░   70.04 %
-C            1 hr 39 mins    ██████▓░░░░░░░░░░░░░░░░░░   27.07 %
-Other        7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.97 %
+C            2 hrs 34 mins   ███████████████████████▓░   94.47 %
+Other        7 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 %
 ```
 
 <!--END_SECTION:waka-->
