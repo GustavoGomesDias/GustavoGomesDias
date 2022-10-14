@@ -27,7 +27,12 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-No activity tracked
+From: 06 October 2022 - To: 13 October 2022
+
+C             1 hr 28 mins    ██████████████████████▒░░   89.83 %
+Git Config    10 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.16 %
+Bash          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
+Objective-C   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
 ```
 
 <!--END_SECTION:waka-->
