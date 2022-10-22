@@ -27,10 +27,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 October 2022 - To: 20 October 2022
+From: 14 October 2022 - To: 21 October 2022
 
-C            2 hrs 39 mins   █████████████████████████   99.90 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 %
+C            2 hrs 39 mins   ████████████████▓░░░░░░░░   66.35 %
+TypeScript   1 hr 15 mins    ████████░░░░░░░░░░░░░░░░░   31.42 %
+Bash         2 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
+JSON         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
+Other        1 min           ░░░░░░░░░░░░░░░░░░░░░░░░░   00.44 %
 ```
 
 <!--END_SECTION:waka-->
