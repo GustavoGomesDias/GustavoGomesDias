@@ -27,10 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 20 October 2022 - To: 27 October 2022
+From: 21 October 2022 - To: 28 October 2022
 
-TypeScript   4 hrs 45 mins   ███████████████████▒░░░░░   76.76 %
-Other        32 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.73 %
+TypeScript   3 hrs 29 mins   ████████████████▒░░░░░░░░   65.10 %
+Other        31 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.74 %
 ```
 
 <!--END_SECTION:waka-->
