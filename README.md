@@ -27,10 +27,11 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 November 2022 - To: 04 December 2022
+From: 28 November 2022 - To: 05 December 2022
 
-Python   2 mins          █████████████████████░░░░   84.36 %
-CSV      0 secs          ████░░░░░░░░░░░░░░░░░░░░░   15.64 %
+C        1 hr 1 min      ████████████████████████░   95.70 %
+Python   2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.62 %
+CSV      0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
 ```
 
 <!--END_SECTION:waka-->
