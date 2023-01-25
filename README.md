@@ -27,10 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 January 2023 - To: 23 January 2023
+From: 17 January 2023 - To: 24 January 2023
 
-TypeScript   3 hrs 5 mins    ██████████████████████▒░░   89.70 %
-Other        10 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+TypeScript   2 hrs 20 mins   ███████████████████████▒░   92.76 %
+Other        4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.92 %
 ```
 
 <!--END_SECTION:waka-->
