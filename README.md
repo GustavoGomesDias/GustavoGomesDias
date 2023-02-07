@@ -27,7 +27,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 29 January 2023 - To: 05 February 2023
+From: 30 January 2023 - To: 06 February 2023
 
 CSS          1 hr 41 mins    ███████████████████░░░░░░   75.97 %
 HTML         31 mins         ██████░░░░░░░░░░░░░░░░░░░   23.84 %
