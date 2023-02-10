@@ -27,12 +27,12 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 01 February 2023 - To: 08 February 2023
+From: 02 February 2023 - To: 09 February 2023
 
-CSS          1 hr 18 mins    ████████████████▒░░░░░░░░   65.21 %
-HTML         41 mins         ████████▓░░░░░░░░░░░░░░░░   34.10 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 %
-JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 %
+CSS          1 hr 26 mins    ████████████████▓░░░░░░░░   67.32 %
+HTML         41 mins         ████████░░░░░░░░░░░░░░░░░   32.03 %
+XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
+JavaScript   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
 ```
 
 <!--END_SECTION:waka-->
