@@ -27,11 +27,11 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 27 February 2023 - To: 06 March 2023
+From: 28 February 2023 - To: 07 March 2023
 
-Python       1 hr 6 mins     ██████████████████████▒░░   88.74 %
-HTML         6 mins          ██▒░░░░░░░░░░░░░░░░░░░░░░   08.71 %
-Other        1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.07 %
+Python       1 hr 6 mins     ████████████████████▒░░░░   80.81 %
+HTML         6 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
+Other        5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.23 %
 ```
 
 <!--END_SECTION:waka-->
