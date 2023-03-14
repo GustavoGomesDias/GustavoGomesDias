@@ -27,11 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 05 March 2023 - To: 12 March 2023
+From: 06 March 2023 - To: 13 March 2023
 
-YAML         27 mins         ████████░░░░░░░░░░░░░░░░░   31.41 %
-Python       27 mins         ███████▓░░░░░░░░░░░░░░░░░   30.81 %
-Other        22 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.67 %
+YAML         27 mins         █████████████░░░░░░░░░░░░   51.89 %
+Other        21 mins         ██████████▒░░░░░░░░░░░░░░   41.01 %
 ```
 
 <!--END_SECTION:waka-->
