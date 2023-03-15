@@ -2,7 +2,7 @@
 ## 😁 About me
 Student of Information Systems and a little junior. I aspire to be a backend programmer, who can fulfill all the proposed challenges
 
-My portfolio: https://gustavogomesdias.github.io/portfolio/ (PT-BR)
+My portfolio: https://woood.dev/ (PT-BR)
 
 <a target="_blank" href="https://www.linkedin.com/in/gusgd/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white">
