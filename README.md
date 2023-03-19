@@ -27,7 +27,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 March 2023 - To: 17 March 2023
+From: 11 March 2023 - To: 18 March 2023
 
 Bash       37 mins         ████████████████▓░░░░░░░░   66.25 %
 Python     10 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.18 %
