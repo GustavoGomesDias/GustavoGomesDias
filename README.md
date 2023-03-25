@@ -27,10 +27,12 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```text
-From: 16 March 2023 - To: 23 March 2023
+From: 17 March 2023 - To: 24 March 2023
 
-Bash    37 mins         ██████████████████████░░░   87.61 %
-Other   5 mins          ███░░░░░░░░░░░░░░░░░░░░░░   12.39 %
+Git Config   24 mins         ██████████▒░░░░░░░░░░░░░░   41.05 %
+Python       20 mins         ████████▓░░░░░░░░░░░░░░░░   34.16 %
+Text         10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   16.91 %
+INI          4 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 %
 ```
 
 <!--END_SECTION:waka-->
