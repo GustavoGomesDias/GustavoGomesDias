@@ -27,9 +27,11 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 June 2023 - To: 12 June 2023
+From: 06 June 2023 - To: 13 June 2023
 
-No activity tracked
+Python   1 hr 11 mins    ███████████████████████░░   92.07 %
+JSON     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
+CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
 ```
 
 <!--END_SECTION:waka-->
