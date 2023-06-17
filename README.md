@@ -27,11 +27,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 June 2023 - To: 15 June 2023
+From: 09 June 2023 - To: 16 June 2023
 
-Python   1 hr 11 mins    ███████████████████████░░   92.07 %
-JSON     5 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.66 %
-CSV      0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 %
+Python       1 hr 28 mins    ██████████████████▓░░░░░░   75.15 %
+Markdown     17 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.45 %
+JSON         5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.01 %
+Git Config   4 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.46 %
+Bash         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
