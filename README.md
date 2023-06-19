@@ -27,7 +27,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 June 2023 - To: 17 June 2023
+From: 11 June 2023 - To: 18 June 2023
 
 Python       2 hrs 25 mins   ████████████████████▓░░░░   83.27 %
 Markdown     17 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   09.73 %
