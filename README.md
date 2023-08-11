@@ -27,7 +27,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 01 August 2023 - To: 08 August 2023
+From: 03 August 2023 - To: 10 August 2023
 
 TypeScript   37 mins         █████████▒░░░░░░░░░░░░░░░   37.37 %
 Other        23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.87 %
