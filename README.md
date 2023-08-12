@@ -27,13 +27,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 03 August 2023 - To: 10 August 2023
+From: 04 August 2023 - To: 11 August 2023
 
-TypeScript   37 mins         █████████▒░░░░░░░░░░░░░░░   37.37 %
-Other        23 mins         ██████░░░░░░░░░░░░░░░░░░░   23.87 %
-TSConfig     15 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   15.19 %
-Bash         11 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.13 %
-JSON         4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.80 %
+TypeScript   37 mins         ████████████░░░░░░░░░░░░░   48.29 %
+Other        23 mins         ███████▓░░░░░░░░░░░░░░░░░   31.06 %
+Bash         11 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.49 %
+TSConfig     2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 %
+Text         1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
