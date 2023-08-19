@@ -27,7 +27,7 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 August 2023 - To: 17 August 2023
+From: 11 August 2023 - To: 18 August 2023
 
 Python   46 mins         ███████████████████▒░░░░░   77.12 %
 JSON     10 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.70 %
