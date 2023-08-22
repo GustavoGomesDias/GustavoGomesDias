@@ -21,7 +21,7 @@ My portfolio: https://woood.dev/ (PT-BR)
 ## 😎 Stats
 Stats   | Top Langs
 --------- | ------
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats) | ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=dracula)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=GustavoGomesDias&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) | [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GustavoGomesDias)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--START_SECTION:waka-->
