@@ -27,10 +27,9 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2023 - To: 09 September 2023
+From: 03 September 2023 - To: 10 September 2023
 
-Bash         9 mins          █████████████████░░░░░░░░   68.11 %
-TypeScript   4 mins          ████████░░░░░░░░░░░░░░░░░   31.89 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
