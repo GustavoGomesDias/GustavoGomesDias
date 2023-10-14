@@ -27,13 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 05 October 2023 - To: 12 October 2023
+From: 06 October 2023 - To: 13 October 2023
 
-TypeScript       56 mins         ████████████░░░░░░░░░░░░░   48.60 %
-Python           48 mins         ██████████▒░░░░░░░░░░░░░░   41.38 %
-Bash             5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-ActionScript 3   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.51 %
-TSQL             1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.45 %
+Python   48 mins         ████████████████████████▓   98.10 %
+JSON     0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.90 %
 ```
 
 <!--END_SECTION:waka-->
