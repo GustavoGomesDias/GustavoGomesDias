@@ -27,13 +27,9 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 December 2023 - To: 04 January 2024
+From: 30 December 2023 - To: 06 January 2024
 
-Python       1 hr 14 mins    ████████████████████▓░░░░   82.81 %
-CSV          12 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.00 %
-Text         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-JSON         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.74 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
