@@ -27,13 +27,13 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 27 February 2024 - To: 05 March 2024
+From: 28 February 2024 - To: 06 March 2024
 
-CSS          2 hrs 43 mins   █████████████▓░░░░░░░░░░░   54.36 %
-HTML         1 hr 2 mins     █████▒░░░░░░░░░░░░░░░░░░░   20.92 %
-Python       30 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.23 %
-TypeScript   24 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.06 %
-SQL          9 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.19 %
+CSS          1 hr 53 mins    ██████████████▓░░░░░░░░░░   58.20 %
+HTML         54 mins         ███████░░░░░░░░░░░░░░░░░░   27.76 %
+Python       14 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
+Prisma       4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+TypeScript   3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
 ```
 
 <!--END_SECTION:waka-->
