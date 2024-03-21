@@ -27,13 +27,12 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 12 March 2024 - To: 19 March 2024
+From: 13 March 2024 - To: 20 March 2024
 
-Python       1 hr 12 mins    ████████████████████░░░░░   80.64 %
-Text         16 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.96 %
-CSV          0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.95 %
-Git Config   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 %
-JSON         0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 %
+Python       5 mins          ███████████████████████▒░   93.17 %
+CSV          0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   03.52 %
+Text         0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.61 %
+Git Config   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.70 %
 ```
 
 <!--END_SECTION:waka-->
