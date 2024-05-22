@@ -27,9 +27,11 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 May 2024 - To: 20 May 2024
+From: 14 May 2024 - To: 21 May 2024
 
-No activity tracked
+JSON     14 mins         ████████████████░░░░░░░░░   63.54 %
+Python   6 mins          ███████▒░░░░░░░░░░░░░░░░░   29.94 %
+CSV      1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.52 %
 ```
 
 <!--END_SECTION:waka-->
