@@ -27,11 +27,10 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 08 August 2024 - To: 15 August 2024
+From: 09 August 2024 - To: 16 August 2024
 
-Python        51 mins         ██████████████████████▓░░   90.44 %
-JSON          3 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.20 %
-Image (svg)   1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   03.36 %
+Python        38 mins         ███████████████████████▓░   95.26 %
+Image (svg)   1 min           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
 ```
 
 <!--END_SECTION:waka-->
