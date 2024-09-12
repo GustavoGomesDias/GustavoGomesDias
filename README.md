@@ -27,10 +27,9 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 02 September 2024 - To: 09 September 2024
+From: 04 September 2024 - To: 11 September 2024
 
-Python   20 mins         ██████████████████████▒░░   89.35 %
-JSON     2 mins          ██▓░░░░░░░░░░░░░░░░░░░░░░   10.65 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
