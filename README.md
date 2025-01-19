@@ -27,9 +27,11 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 10 January 2025 - To: 17 January 2025
+From: 11 January 2025 - To: 18 January 2025
 
-Go   7 mins          █████████████████████████   100.00 %
+Python   28 mins         ██████████████████▒░░░░░░   73.49 %
+Go       7 mins          █████░░░░░░░░░░░░░░░░░░░░   20.21 %
+Text     2 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.30 %
 ```
 
 <!--END_SECTION:waka-->
