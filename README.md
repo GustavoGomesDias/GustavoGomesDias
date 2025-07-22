@@ -27,12 +27,9 @@ Stats   | Top Langs
 <!--START_SECTION:waka-->
 
 ```txt
-From: 13 July 2025 - To: 20 July 2025
+From: 14 July 2025 - To: 21 July 2025
 
-Python   4 hrs 22 mins   ████████████████████████░   95.94 %
-Text     10 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.81 %
-JSON     0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 %
-Other    0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
